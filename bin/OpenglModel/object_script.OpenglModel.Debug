@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\openglwidget.o
+./debug\shaderlibrary.o
+./debug\texturelibrary.o
+./debug\objectfactory.o
+./debug\objectparent.o
+./debug\objecttriangle.o
+./debug\objectrectangle.o
+./debug\cameralibrary.o
+./debug\objectmesh.o
+./debug\qrc_shaders.o
+./debug\qrc_textures.o
+./debug\moc_openglwidget.o
+./debug\moc_shaderlibrary.o
+./debug\moc_cameralibrary.o
+);

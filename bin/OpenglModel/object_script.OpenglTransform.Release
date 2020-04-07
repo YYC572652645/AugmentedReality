@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\openglwidget.o
+./release\shaderlibrary.o
+./release\texturelibrary.o
+./release\objectfactory.o
+./release\objectparent.o
+./release\objecttriangle.o
+./release\objectrectangle.o
+./release\cameralibrary.o
+./release\qrc_shaders.o
+./release\qrc_textures.o
+./release\moc_openglwidget.o
+./release\moc_shaderlibrary.o
+./release\moc_cameralibrary.o
+);
